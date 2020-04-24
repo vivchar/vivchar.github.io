@@ -1,3 +1,10 @@
+---
+layout: default
+title: My Projects
+description: welcome
+permalink: /
+---
+
 ### My Projects
 * [Fitmer](https://play.google.com/store/apps/details?id=com.vivchar.fitmer) - Interval Fitness Timer;
 * [RendererRecyclerViewAdapter](https://github.com/vivchar/RendererRecyclerViewAdapter) - A single adapter with multiple view types for the whole project;
