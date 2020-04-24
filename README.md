@@ -2,8 +2,8 @@
 https://app-privacy-policy-generator.firebaseapp.com/
 
 # Privacy Policy
-http://fitmer.tom.ru/privacy-policy
+https://vivchar.github.io/privacy-policy
 
 # Terms & Conditions
-http://fitmer.tom.ru/terms-of-service
+https://vivchar.github.io/terms-of-service
 
