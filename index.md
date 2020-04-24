@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: default
 title: Vivchar
 description: My projects
 ---
