@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Vivchar
-description: My projects
+title: Fitmer
+description: Interval Fitness Timer
 ---
 
 ### My Projects
