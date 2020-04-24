@@ -1,6 +1,16 @@
 <section class="page-header">
-  <h1 class="project-name">{{ site.title }}</h1>
-  {% if site.tagline != nil %}
-    <h2 class="project-tagline">{{ site.tagline }}</h2>
-  {% endif %}
+  <h1 class="project-name">
+    {% if page.title != nil %}
+      {{ page.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </h1>
+  <h2 class="project-tagline">
+    {% if page.description != nil %}
+      {{ page.description }}
+    {% else %}
+      {{ site.tagline }}
+    {% endif %}  
+  </h2>
 </section>
