@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fitmer
+title: FITMER
 description: Terms & Conditions
 ---
 
