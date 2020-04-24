@@ -1,8 +1,7 @@
 ---
 layout: default
-title: My Projects
-description: welcome
-permalink: /
+title: Vivchar
+description: My projects
 ---
 
 ### My Projects
