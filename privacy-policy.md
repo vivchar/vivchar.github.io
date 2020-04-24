@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fitmer
+tagline: Privacy Policy
+---
+
 **Privacy Policy**
 
 Vivchar Vitaly built the Fitmer app as a Free app. This SERVICE is provided by Vivchar Vitaly at no cost and is intended for use as is.
