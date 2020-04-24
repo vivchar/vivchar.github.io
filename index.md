@@ -1,6 +1,7 @@
 ---
 layout: default
 title: My Projects
+name: Test
 description: welcome
 permalink: /
 ---
