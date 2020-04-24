@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fitmer
-tagline: Privacy Policy
+description: Privacy Policy
 ---
 
 **Privacy Policy**
