@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fitmer
-tagline: Terms & Conditions
+description: Terms & Conditions
 ---
 
 **Terms & Conditions**
