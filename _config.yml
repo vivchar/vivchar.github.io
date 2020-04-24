@@ -4,6 +4,7 @@ tagline:      Interval Fitness Timer
 baseurl:      ""
 paginate:     1
 locale:       "en"
+favicon:      assets/favicon.ico
 
 # About/contact
 author:
