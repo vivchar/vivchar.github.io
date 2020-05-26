@@ -6,6 +6,3 @@ https://vivchar.github.io/privacy-policy
 
 # Terms & Conditions
 https://vivchar.github.io/terms-of-service
-
-# test
-[paltalk://login/p337GLF7wHzQzTXK0wZEnatz](paltalk://login/p337GLF7wHzQzTXK0wZEnatz)
