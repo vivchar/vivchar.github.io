@@ -8,4 +8,4 @@ https://vivchar.github.io/privacy-policy
 https://vivchar.github.io/terms-of-service
 
 # test
-http://jira.paltalk.com/browse/AND-6216
+paltalk://login/p337GLF7wHzQzTXK0wZEnatz
